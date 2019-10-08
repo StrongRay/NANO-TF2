@@ -101,6 +101,8 @@ python3
 import tensorflow as tf
 tf.__version__
 ```
+![image](s3.png)
+
 
 # 9.  Test out the tensorflow codes from https://www.tensorflow.org/tutorials/quickstart/advanced
 ```
