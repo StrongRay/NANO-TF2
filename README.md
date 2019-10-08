@@ -101,3 +101,9 @@ python3
 import tensorflow as tf
 tf.__version__
 ```
+
+# 9.  Test out the tensorflow codes from https://www.tensorflow.org/tutorials/quickstart/advanced
+```
+python3 expert.py
+```
+![image](S1.png)
